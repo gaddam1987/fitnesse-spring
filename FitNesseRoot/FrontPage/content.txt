@@ -1,0 +1,5 @@
+!1 Welcome to [[FitNesse][FitNesse.FitNesse]]!
+
+To add your first "page", click the [[Edit][FrontPage?edit]] button and add a [[-HelloWorld-][FitNesse.HelloWorld]] to the page.
+
+!note Release ${FITNESSE_VERSION}
